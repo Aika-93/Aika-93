@@ -20,13 +20,10 @@ I'm currently developing my skills through Code the Dream and hands-on technical
 
 ### 📊 Featured Projects
 
-**City Air Tracker**
+**[City Air Tracker](https://github.com/Code-the-Dream-School/summer-26-py-practicum-team1)** — Team data engineering project: batch ETL of air-quality data (OpenWeather API → PostgreSQL raw → gold dataset → Python API → React dashboard). My part: PostgreSQL data layer (Docker, SQLAlchemy, Alembic), pipeline CLI/runtime, data contracts and documentation — 10 merged PRs.
 
-A team-based Data Engineering project that collects air-quality data from the OpenWeather API, transforms and validates the data, stores it in PostgreSQL, and supports an interactive dashboard.
+**[MLB Data Project](https://github.com/Aika-93/mlb-history-project)** — End-to-end individual project: web scraping, cleaning and SQLite storage of MLB history (5 tables, 505 records), SQL JOIN query CLI, and an interactive Dash/Plotly dashboard ([live demo](https://mlb-history-project.onrender.com/)).
 
-**MLB Data Project**
-
-A Python data project involving web scraping, data cleaning, SQLite, SQL queries, and interactive data visualization.
 
 ### 🎓 Education & Training
 
