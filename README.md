@@ -38,3 +38,4 @@ I'm seeking opportunities as a Junior Data Engineer or Data Engineer Intern wher
 
 📫 **Let's connect:**
 [GitHub](https://github.com/Aika-93)
+· Email: amanturova93@gmail.com
